@@ -64,8 +64,36 @@
 - [BMS Search](https://bmssearch.net/)
 - [A tool for "simulating" hand positions on controllers](http://blog-imgs-50.fc2.com/p/o/t/potofu412/unsi_gene_html5.html)
 
+## Communities
+
+- [r/lunaticrave2](https://www.reddit.com/r/lunaticrave2/)
+- [k-bms](https://k-bms.com/)
+- [BMS Community "official" Link](https://discord.com/invite/0lUN07Rj1O8Sdctv)
+
+## Dans
+
+- [Official Dan Courses](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=gradelist)
+- [Old Official Dan Courses (~2012)](https://1drv.ms/f/s!AnUmuDDopb3tpFG38VunDMuAuj3J)
+- [Satellite Skill Analyzer](https://www.dropbox.com/s/vb50k0gt72ir4x7/Satellite%20Skill%20Analyzer.zip?dl=1)
+
+## Skins
+>  I don't know if some of these work or not, some might need Lunatic Rave 2 HD
+
+- [Brook](https://drive.google.com/file/d/1ei0w7_gMkZ7TU9q79WkQ5RPnTIbhWbOk/view)
+- [Remi-S (various editions)](https://drive.google.com/open?id=10glT96Fy5pA6DmDC-uPJJD-xF23uGTXR)
+- [KCOOL 1.7x SD (LR2)](https://onedrive.live.com/?id=5D13E668918E4CF1%21131&cid=5D13E668918E4CF1)
+- [LITONE Homepage](https://desout2.tk/)
+- [WMix (LR2)](http://1drv.ms/24mbfnE)
+- [ht51-DeepForest-v2 20110917](http://bit.ly/wIGhCY)
+- [24K/48K keyboard-like skin for beatoraja](https://www.pixiv.net/fanbox/creator/19364814/post/299474?utm_campaign=manage_post_page)
+- [RED BELT/OVERACTiVE](http://right-stick.sub.jp/rb.html)
+
+## Tables
+
+### LR2 Tables
+
+
 ## Guitar Hero
 - [Clone Hero](https://clonehero.net/) Main way to play
 - [Chart Spreadsheet](https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/edit#gid=0) All the chart's you'd need
 - [Chorus](https://chorus.fightthe.pw/) Alternative
-
