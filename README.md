@@ -1,7 +1,7 @@
 # Awesome Rhythm Games
 > All of the Rhythm Game resources I can find.
 ## Contents
-- [DDR / StepMania](#ddr/stepmania)
+- [DDR / StepMania](#ddr--stepmania)
 - [Bemani / BMS](#bemani/bms)
 - [Guitar Hero](#guitarhero)
 
