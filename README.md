@@ -5,13 +5,13 @@
 - [Bemani / BMS](#bemani--bms)
 - [Guitar Hero](#guitar-hero)
 
-## DDR / StepMania
+# DDR / StepMania
 
 ### STEPMANIA
 - [Stepmania](https://www.stepmania.com/) Good ol' StepMania
 - [Etterna](https://etternaonline.com/) Based on the StepMania Engine, focused on accomodating the four-key keyboard metagame
 
-## Bemani / BMS
+# Bemani / BMS
 > Copy and pasted from the discord server lmao
 
 ## Clients
@@ -106,6 +106,35 @@
 - [LN Table](http://flowermaster.web.fc2.com/lrnanido/gla/LN.html)
 - [PMS Normal](http://pmsdifficulty.xxxxxxxx.jp/PMSdifficulty.html)
 - [PMS Insane](http://stellawingroad.web.fc2.com/new/pms.html)
+- [Miscellaneous tables (used by BMSeeker)](http://www.ribbit.xyz/bms/tables/table_list.html)
+
+### Beatoraja Tables
+
+- [DP Delta](https://tear.moe/table/dpdelta-normal-dans.html)
+- [GENOSIDE 2018 SP Dans (WARNING: these courses do not use the LR2 dan gauge)](https://tear.moe/table/genoside-2018-sp.html)
+- [Satellite Skill Analyzer](http://mirai-yokohama.sakura.ne.jp/bms/satellite_skill.html)
+- [Stella Skill Simulator v2](http://mirai-yokohama.sakura.ne.jp/bms/stella_skill.html)
+
+### Event Packs
+
+- [100+ packs here](https://package.bms.ms/)
+- [BMS of Fighters 2004](https://archive.org/details/bmsoffighters2004)
+- [BMS of Fighters 2005](https://archive.org/details/thebmsoffighters2005)
+- [BMS of Fighters 2006](https://archive.org/details/thebmsoffighters2006.7z)
+- [sen-goku](https://archive.org/details/sengoku_201909)
+- [BMS of Fighters 2008](https://archive.org/details/thebmsoffighters2008resurrection)
+- [BOF2009 up to BOFXV2019](https://blog.polyohm.net/articles/misc/2019/05/02/BMS-package/index.html)
+- [PABAT!2013 (Torrent)](https://k-bms.com/party_pabat/event_file/PABAT_bms_event_package_total_62_bms.zip)
+- [PABAT!2014 (Torrent)](https://k-bms.com/party_pabat/event_file/PABAT_2014_seasons_60bms_package.zip)
+- [PABAT!2015 (Torrent)](https://k-bms.com/party_pabat/event_file/PABAT_2015_seasons_62bms_package_rar.zip)
+- [PABAT!2016](https://drive.google.com/file/d/0B_JSxrtTvjwHMUg2YkxGWnd1N1k/view)
+- [PABAT!2017](https://drive.google.com/file/d/0B_JSxrtTvjwHSVllSlgxSlhTaEk/view)
+- [PABAT!2018](https://drive.google.com/file/d/13Ll_2eRMIb-Gxe7ynlMqznf-vr2DmxIV/view)
+- [PABAT!2019](https://drive.google.com/file/d/1rLfI7gyDOfOfyP5w2fWm1_MD4wgT3d0U/view)
+- [PABAT!2020 1st reg.](https://drive.google.com/open?id=1ujhi0I0-JTGiTGK_mnnSLpkqvYszj9IC)
+- [BMSをいっぱい作る2019](https://drive.google.com/file/d/1LWQJ-3y7N4U2WSlfheRt3D9_FUcVLjAC/view)
+- [Wire Puller 1 to Wire Puller 3](https://mega.nz/#F!EpgWgJqa!7OItZfYLQxZ0X8OB19yvNQ!cg5ViLQI)
+
 
 
 ## Guitar Hero
