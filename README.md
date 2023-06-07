@@ -12,10 +12,23 @@
 - [Etterna](https://etternaonline.com/) Based on the StepMania Engine, focused on accomodating the four-key keyboard metagame
 
 ## Bemani / BMS
+> Copy and pasted from the discord server lmao
 
-### Bemani / BMS
-- [Guide](https://news.keysounds.net/lr2guide) Everything you need to know
-- [Discord Server](https://discord.gg/HMZ7h8UVC5) More Resources
+### Clients
+
+## Lunatic Rave 2
+- [Lunatic Rave 2 Guide](https://news.keysounds.net/lr2guide)
+> VERY IMPORTANT READ IT!!!
+- [Lunatic Rave 2](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=download)
+- [Lunatic Rave 2 HD](https://drive.google.com/file/d/1GB1I6LSWnOeQbdpqj4doue7wLT15h-vX/view)
+- [Lunatic Rave 2 HD + Fast/Slow (fixed LNs ver.)](https://drive.google.com/file/d/1YcBQ_l6e306a4tn_VWXyzZnbfOfguHfb/view?usp=sharing)
+
+## Beatojara
+- [Beatojara Guide](https://github.com/wcko87/beatoraja-english-guide/wiki)
+> AGAIN, VERY IMPORTANT READ IT!!!
+- [Beatojara](https://mocha-repository.info/download.php)
+- [Latest Beatojara](https://mocha-repository.info/download/beatoraja0.8.5.zip) No Java
+
 
 ## Guitar Hero
 - [Clone Hero](https://clonehero.net/) Main way to play
