@@ -27,7 +27,14 @@
 - [Beatojara Guide](https://github.com/wcko87/beatoraja-english-guide/wiki)
 > AGAIN, VERY IMPORTANT READ IT!!!
 - [Beatojara](https://mocha-repository.info/download.php)
-- [Latest Beatojara](https://mocha-repository.info/download/beatoraja0.8.5.zip) No Java
+- [Latest Beatojara (0.8.5)](https://mocha-repository.info/download/beatoraja0.8.5.zip) No Java
+- [Beatojara (0.8.4)](http://cellar.queenspalace.dev/beatoraja0.8.4.zip)
+
+## Qwilight
+- [Steam](https://store.steampowered.com/app/1910130/Qwilight/)
+
+## QMS
+- [Download](https://misoshiru-cpp.jimdo.com/download/)
 
 
 ## Guitar Hero
