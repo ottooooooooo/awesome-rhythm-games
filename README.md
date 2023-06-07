@@ -2,7 +2,7 @@
 > All of the Rhythm Game resources I can find.
 ## Contents
 - [DDR / StepMania](#ddr/stepmania)
-- [Bemani / BMS]
+- [Bemani / BMS](#bemani/bms)
 
 ## DDR / StepMania
 
