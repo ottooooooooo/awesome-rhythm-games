@@ -92,6 +92,15 @@
 
 ### LR2 Tables
 
+- [Normal 1](http://www.ribbit.xyz/bms/tables/normal.html)
+- [Insane 1](http://nekokan.dyndns.info/~lobsak/genocide/insane.html)
+- [Overjoy](http://lr2.sakura.ne.jp/overjoy.php)
+- [(Twitter) @Fez_ike's Beginner table](http://fezikedifficulty.futene.net/list.html)
+- [Stella](https://stellabms.xyz/st/table.html)
+- [Satellite](https://stellabms.xyz/sl/table.html)
+- [Normal 2](http://rattoto10.jounin.jp/table.html)
+- [Insane 2](http://rattoto10.jounin.jp/table_insane.html)
+
 
 ## Guitar Hero
 - [Clone Hero](https://clonehero.net/) Main way to play
