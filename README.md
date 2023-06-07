@@ -2,8 +2,8 @@
 > All of the Rhythm Game resources I can find.
 ## Contents
 - [DDR / StepMania](#ddr--stepmania)
-- [Bemani / BMS](#bemani/bms)
-- [Guitar Hero](#guitarhero)
+- [Bemani / BMS](#bemani--bms)
+- [Guitar Hero](#guitar-hero)
 
 ## DDR / StepMania
 
