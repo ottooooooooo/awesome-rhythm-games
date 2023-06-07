@@ -100,6 +100,11 @@
 - [Satellite](https://stellabms.xyz/sl/table.html)
 - [Normal 2](http://rattoto10.jounin.jp/table.html)
 - [Insane 2](http://rattoto10.jounin.jp/table_insane.html)
+- [DP Normal (Delta)](http://dpbmsdelta.web.fc2.com/table/dpdelta.html)
+- [DP Insane](http://dpbmsdelta.web.fc2.com/table/insane.html)
+- [DP Satellite](https://stellabms.xyz/dp/table.html)
+- [LN Table](http://flowermaster.web.fc2.com/lrnanido/gla/LN.html)
+- [PMS Normal](http://pmsdifficulty.xxxxxxxx.jp/PMSdifficulty.html)
 
 
 ## Guitar Hero
