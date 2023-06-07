@@ -14,7 +14,7 @@
 ## Bemani / BMS
 > Copy and pasted from the discord server lmao
 
-### Clients
+## Clients
 
 ### Lunatic Rave 2
 - [Lunatic Rave 2 Guide](https://news.keysounds.net/lr2guide)
