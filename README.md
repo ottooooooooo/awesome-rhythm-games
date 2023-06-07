@@ -11,7 +11,7 @@
 - [Stepmania](https://www.stepmania.com/) Good ol' StepMania
 - [Etterna](https://etternaonline.com/) Based on the StepMania Engine, focused on accomodating the four-key keyboard metagame
 
-## Bemani / BMS
+### Bemani / BMS
 > Copy and pasted from the discord server lmao
 
 ### Clients
