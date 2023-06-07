@@ -105,6 +105,7 @@
 - [DP Satellite](https://stellabms.xyz/dp/table.html)
 - [LN Table](http://flowermaster.web.fc2.com/lrnanido/gla/LN.html)
 - [PMS Normal](http://pmsdifficulty.xxxxxxxx.jp/PMSdifficulty.html)
+- [PMS Insane](http://stellawingroad.web.fc2.com/new/pms.html)
 
 
 ## Guitar Hero
