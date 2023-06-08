@@ -8,9 +8,10 @@ If you have any suggestions tell me!
 - [DDR / StepMania](#ddr--stepmania)
 - [Bemani / BMS](#bemani--bms)
 - [Guitar Hero](#guitar-hero)
+- [A Dance of Fire and Ice](#a-dance-of-fire-and-ice)
 
 # osu!
-
+- [Download](https://osu.ppy.sh/home/download)
 - https://github.com/cl8n/awesome-osu
 
 # DDR / StepMania
@@ -59,7 +60,6 @@ You should be able to find it by pressing CTRL+F and searching for "ddr"
 - [Download](https://misoshiru-cpp.jimdo.com/download/)
 
 ## Starter Packs
-
 - [GENOSIDE -BMS StarterPackage 2018-](http://nekokan.dyndns.info/~lobsak/genocide/grade.html)
 - [GENOSIDE -BMS StarterPackage-](http://nekokan.dyndns.info/~lobsak/genoside/)
 - [LUMINOUS](http://l-bms.space/1st/)
@@ -71,8 +71,7 @@ You should be able to find it by pressing CTRL+F and searching for "ddr"
 - [Korea BMS Starter Pack -Primrose-](https://k-bms.com/primrose/)
 - [Lunatic Rave Endless Music](http://www.is-m.jp/lrem/download.html)
 
-## Player Utilities
-
+### Player Utilities
 - [LR2 Internet Ranking](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi)
 - [MinIR Homepage](https://www.gaftalk.com/minir/)
 - [NotePara](http://www.notepara.com/)
@@ -86,21 +85,18 @@ You should be able to find it by pressing CTRL+F and searching for "ddr"
 - [BMS Search](https://bmssearch.net/)
 - [A tool for "simulating" hand positions on controllers](http://blog-imgs-50.fc2.com/p/o/t/potofu412/unsi_gene_html5.html)
 
-## Communities
-
+### Communities
 - [r/lunaticrave2](https://www.reddit.com/r/lunaticrave2/)
 - [k-bms](https://k-bms.com/)
 - [BMS Community "official" Link](https://discord.com/invite/0lUN07Rj1O8Sdctv)
 
-## Dans
-
+### Dans
 - [Official Dan Courses](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=gradelist)
 - [Old Official Dan Courses (~2012)](https://1drv.ms/f/s!AnUmuDDopb3tpFG38VunDMuAuj3J)
 - [Satellite Skill Analyzer](https://www.dropbox.com/s/vb50k0gt72ir4x7/Satellite%20Skill%20Analyzer.zip?dl=1)
 
-## Skins
+### Skins
 >  I don't know if some of these work or not, some might need Lunatic Rave 2 HD
-
 - [Brook](https://drive.google.com/file/d/1ei0w7_gMkZ7TU9q79WkQ5RPnTIbhWbOk/view)
 - [Remi-S (various editions)](https://drive.google.com/open?id=10glT96Fy5pA6DmDC-uPJJD-xF23uGTXR)
 - [KCOOL 1.7x SD (LR2)](https://onedrive.live.com/?id=5D13E668918E4CF1%21131&cid=5D13E668918E4CF1)
@@ -110,10 +106,9 @@ You should be able to find it by pressing CTRL+F and searching for "ddr"
 - [24K/48K keyboard-like skin for beatoraja](https://www.pixiv.net/fanbox/creator/19364814/post/299474?utm_campaign=manage_post_page)
 - [RED BELT/OVERACTiVE](http://right-stick.sub.jp/rb.html)
 
-## Tables
+### Tables
 
-### LR2 Tables
-
+#### LR2 Tables
 - [Normal 1](http://www.ribbit.xyz/bms/tables/normal.html)
 - [Insane 1](http://nekokan.dyndns.info/~lobsak/genocide/insane.html)
 - [Overjoy](http://lr2.sakura.ne.jp/overjoy.php)
@@ -130,15 +125,13 @@ You should be able to find it by pressing CTRL+F and searching for "ddr"
 - [PMS Insane](http://stellawingroad.web.fc2.com/new/pms.html)
 - [Miscellaneous tables (used by BMSeeker)](http://www.ribbit.xyz/bms/tables/table_list.html)
 
-### Beatoraja Tables
-
+#### Beatoraja Tables
 - [DP Delta](https://tear.moe/table/dpdelta-normal-dans.html)
 - [GENOSIDE 2018 SP Dans (WARNING: these courses do not use the LR2 dan gauge)](https://tear.moe/table/genoside-2018-sp.html)
 - [Satellite Skill Analyzer](http://mirai-yokohama.sakura.ne.jp/bms/satellite_skill.html)
 - [Stella Skill Simulator v2](http://mirai-yokohama.sakura.ne.jp/bms/stella_skill.html)
 
-## Event Packs
-
+### Event Packs
 - [100+ packs here](https://package.bms.ms/)
 - [BMS of Fighters 2004](https://archive.org/details/bmsoffighters2004)
 - [BMS of Fighters 2005](https://archive.org/details/thebmsoffighters2005)
@@ -171,8 +164,7 @@ You should be able to find it by pressing CTRL+F and searching for "ddr"
 - [Mutual Faith 3 (Phase 1)](https://www.dropbox.com/s/lb02l0d34apxs2o/Mutual%20Faith%203.zip?dl=1)
 - [BMS Shuin II](https://drive.google.com/open?id=17CiBb24M65WoBd_sHXEI-8Izhpky4hHZ)
 
-## Tutorials and Tools
-
+### Tutorials and Tools
 - [BMS Creation Notes](https://docs.google.com/document/d/1ywUO5RxCP8jCM7MuFGFAS5TIRK2gsyM3-rMgvPuMEcw/edit)
 >Video version: https://www.youtube.com/watch?v=Guv1vRAKanY, https://www.youtube.com/watch?v=xYAeD4YPbAM, https://www.youtube.com/watch?v=33tkdoRkA_s
 - [Legacy BGA How-To](https://docs.google.com/document/d/1jL9f5CaH3Rm6bNa9ijUIDBqfpyDYvq4mIK_AeyUJ3mI)
@@ -194,8 +186,7 @@ You should be able to find it by pressing CTRL+F and searching for "ddr"
 - [10K2S Setup Guide](http://vsrg.pbworks.com/w/page/121853208/10K2S%20Guide)
 - [PMS Guide](http://vsrg.pbworks.com/w/page/121957257/PMS%20(9k)%20Guide)
 
-## Others
-
+### Others
 - [BMS Chart Viewer](http://www.ribbit.xyz/bms/score/)
 - [BMS EVENT LITE (Hitkey Event List)](https://hitkey.nekokan.dyndns.info/bmsevt.htm#ALL)
 - [BMS Terminology](http://news.keysounds.net/terminology)
@@ -206,8 +197,7 @@ You should be able to find it by pressing CTRL+F and searching for "ddr"
 - [10K2S Difficulty Table Discussion Spreadsheet](https://docs.google.com/spreadsheets/d/1MrtyIe3F3U7qQl2w1TS-4REJQ2pAFVx-U3QV14MEBvg/edit#gid=0)
 - [Music select BGM collection by Lokovodo](http://www.mediafire.com/file/w9b416nb8vcn792/Bgm.rar/file)
 
-## Other Songs+Sabuns
-
+### Other Songs+Sabuns
 - [BMS uploader Mirror](http://www.ribbit.xyz/bms/mirror/)
 - [OverJoy Songs + Sabuns](https://onedrive.live.com/?id=40805CD20B6241C6%211913&cid=40805CD20B6241C6)
 - [Sara(Scratch) table sabuns](https://onedrive.live.com/?authkey=%21AGsLa3u5mkIaV6I&id=3F3FCF7E354956A6%21115&cid=3F3FCF7E354956A6)
@@ -223,9 +213,15 @@ You should be able to find it by pressing CTRL+F and searching for "ddr"
 > [2022-06-14 update](https://drive.google.com/file/d/1qLC7oI8qU3vn93_fyZzVRoTgeLBFuW7R/view?usp=sharing)
 - [Packages for all the "major" difficulty tables](https://bms.kyouko.moe/)
 
-
-
 ## Guitar Hero
 - [Clone Hero](https://clonehero.net/) Main way to play
 - [Chart Spreadsheet](https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/edit#gid=0) All the chart's you'd need
 - [Chorus](https://chorus.fightthe.pw/) Alternative
+
+## A Dance of Fire and Ice
+- [Steam](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/)
+- [itch.io](https://fizzd.itch.io/a-dance-of-fire-and-ice)
+
+### Mods
+- [Tutorial](https://www.youtube.com/watch?v=tdUTmQ5sIdk)
+- [ADOFAI Modding Discord (Archived)](https://discord.com/invite/xrBx7uRQKC)
