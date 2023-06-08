@@ -1,9 +1,17 @@
 # Awesome Rhythm Games
-> All of the Rhythm Game resources I can find.
+All of the Rhythm Game resources I can find, inspired by https://github.com/sindresorhus/awesome
+
+If you have any suggestions tell me!
+
 ## Contents
+- [osu!](#osu)
 - [DDR / StepMania](#ddr--stepmania)
 - [Bemani / BMS](#bemani--bms)
 - [Guitar Hero](#guitar-hero)
+
+# osu!
+
+- https://github.com/cl8n/awesome-osu
 
 # DDR / StepMania
 
