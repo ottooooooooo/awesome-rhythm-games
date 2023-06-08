@@ -151,8 +151,20 @@
 
 ## Tutorials and Tools
 
--[BMS Creation Notes](https://docs.google.com/document/d/1ywUO5RxCP8jCM7MuFGFAS5TIRK2gsyM3-rMgvPuMEcw/edit)
+- [BMS Creation Notes](https://docs.google.com/document/d/1ywUO5RxCP8jCM7MuFGFAS5TIRK2gsyM3-rMgvPuMEcw/edit)
 >Video version: https://www.youtube.com/watch?v=Guv1vRAKanY, https://www.youtube.com/watch?v=xYAeD4YPbAM, https://www.youtube.com/watch?v=33tkdoRkA_s
+- [Legacy BGA How-To](https://docs.google.com/document/d/1jL9f5CaH3Rm6bNa9ijUIDBqfpyDYvq4mIK_AeyUJ3mI)
+- [BMS Charting 101](https://docs.google.com/document/d/1uWpmPIpV7q2JIvObaJJ0Q6kUOA4oBav7PvWlEd_uBzQ)
+- [BMS #TOTAL Calculator](https://hitkey.nekokan.dyndns.info/total.htm)
+- [woslicerII](http://cerebralmuddystream.nekokan.dyndns.info/soft/woslicerII.zip)
+- [BMHelper](http://sky.geocities.jp/exclusion_bms/bmhelper/bmhelper_b4p.zip)
+- [BMHelper (English)](https://www.dropbox.com/s/e7196jx73g4huok/bmh_english.zip?dl=0)
+- [uBMplay 1.5.2](http://ucn.tokonats.net/archives/ubmplay/ubmplay_152.zip)
+- [BMSE](http://ucn.tokonats.net/software/bmse/)
+- [BMSE - LN modification](https://github.com/dtinth/UCN-BMSE)
+- [iBMSC](https://www.cs.mcgill.ca/~ryang6/iBMSC/)
+- [µBMSC - modified version of iBMSC (bms editor) ](https://github.com/zardoru/iBMSC)
+- [BMSONE (bmson editor)](http://sky.geocities.jp/exclusion_bms/bmsone_en.html)
 
 
 
