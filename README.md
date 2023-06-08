@@ -177,6 +177,8 @@
 - [BMS Chart Viewer](http://www.ribbit.xyz/bms/score/)
 - [BMS EVENT LITE (Hitkey Event List)](https://hitkey.nekokan.dyndns.info/bmsevt.htm#ALL)
 - [BMS Terminology](http://news.keysounds.net/terminology)
+- [LR2 Skin Help (definition and usage of variables in .csv files)](http://right-stick.sub.jp/lr2skinhelp.html)
+- [BMX2WAV](http://childs.squares.net/program/bmx2wav/)
 
 
 
