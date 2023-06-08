@@ -31,7 +31,7 @@ If you have any suggestions tell me!
 ## DDR
 >AKA emulation with MAME
 - [MAME Roms, CHDs and BIOS](https://r-roms.github.io/megathread/retro/#arcade)
-> You should be able to find it by pressing CTRL+F and searching for "ddr"
+You should be able to find it by pressing CTRL+F and searching for "ddr"
 
 # Bemani / BMS
 > Copy and pasted from the discord server lmao
