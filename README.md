@@ -170,7 +170,13 @@
 - [beatoraja Guide by w (English)](https://github.com/wcko87/beatoraja-english-guide/wiki)
 - [CanMusic Setup Guide](http://vsrg.pbworks.com/w/page/123390204/CanMusic)
 - [10K2S Setup Guide](http://vsrg.pbworks.com/w/page/121853208/10K2S%20Guide)
+- [PMS Guide](http://vsrg.pbworks.com/w/page/121957257/PMS%20(9k)%20Guide)
 
+## Others
+
+- [BMS Chart Viewer](http://www.ribbit.xyz/bms/score/)
+- [BMS EVENT LITE (Hitkey Event List)](https://hitkey.nekokan.dyndns.info/bmsevt.htm#ALL)
+- [BMS Terminology](http://news.keysounds.net/terminology)
 
 
 
