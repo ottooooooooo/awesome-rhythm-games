@@ -165,6 +165,11 @@
 - [iBMSC](https://www.cs.mcgill.ca/~ryang6/iBMSC/)
 - [µBMSC - modified version of iBMSC (bms editor) ](https://github.com/zardoru/iBMSC)
 - [BMSONE (bmson editor)](http://sky.geocities.jp/exclusion_bms/bmsone_en.html)
+- [BGAEncAdv](https://yaruki0.net/program/BGAEncAdv.zip)
+- [beatoraja Guide by LNTakeshi (Japanese)](https://lntakeshi.hateblo.jp/entry/2017/05/19/002127)
+- [beatoraja Guide by w (English)](https://github.com/wcko87/beatoraja-english-guide/wiki)
+- [CanMusic Setup Guide](http://vsrg.pbworks.com/w/page/123390204/CanMusic)
+- [10K2S Setup Guide](http://vsrg.pbworks.com/w/page/121853208/10K2S%20Guide)
 
 
 
