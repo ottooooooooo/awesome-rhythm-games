@@ -20,7 +20,7 @@ If you have any suggestions tell me!
 > [StepMania Tutorial](https://github.com/stepmania/stepmania/wiki)
 - [Etterna](https://etternaonline.com/) Based on the StepMania Engine, focused on accomodating the four-key keyboard metagame
 > [Etterna Tutorial](https://youtu.be/WrUTderimUo)
-- Packs [Etterna](https://etternaonline.com/packs) [StepMania](https://www.stepmania.com/forums/song-packs/)
+- Packs [Etterna](https://etternaonline.com/packs), [StepMania](https://www.stepmania.com/forums/song-packs/)
 - [Arcade Simfiles](https://zenius-i-vanisher.com/v5.2/simfiles.php?category=simfiles)
 
 ### DDR
