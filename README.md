@@ -115,7 +115,7 @@
 - [Satellite Skill Analyzer](http://mirai-yokohama.sakura.ne.jp/bms/satellite_skill.html)
 - [Stella Skill Simulator v2](http://mirai-yokohama.sakura.ne.jp/bms/stella_skill.html)
 
-### Event Packs
+## Event Packs
 
 - [100+ packs here](https://package.bms.ms/)
 - [BMS of Fighters 2004](https://archive.org/details/bmsoffighters2004)
@@ -134,6 +134,26 @@
 - [PABAT!2020 1st reg.](https://drive.google.com/open?id=1ujhi0I0-JTGiTGK_mnnSLpkqvYszj9IC)
 - [BMSをいっぱい作る2019](https://drive.google.com/file/d/1LWQJ-3y7N4U2WSlfheRt3D9_FUcVLjAC/view)
 - [Wire Puller 1 to Wire Puller 3](https://mega.nz/#F!EpgWgJqa!7OItZfYLQxZ0X8OB19yvNQ!cg5ViLQI)
+- [東方音弾遊戯 1 to 東方音弾遊戯 6](https://mega.nz/#F!EpgWgJqa!7OItZfYLQxZ0X8OB19yvNQ!B5JETKwa)
+- [東方音弾遊戯 7](https://docs.google.com/uc?id=0B97xj9Ow1Tu8XzZZR0RMcUhMd2s&export=download)
+- [東方音弾遊戯 8](https://drive.google.com/open?id=1Lge1i7TtQbJzq8edoOLta1AhGmyzoXXw)
+- [Be-Music West](https://drive.google.com/file/d/0B7f97zxWtVlnOU1xVV9HRXcwYzg/view)
+- [Mumeisen11](https://drive.google.com/uc?id=0BxcEoygd7bh-Y3FpaVdmdGhCQmM&export=download)
+- [Mumeisen12](https://docs.google.com/uc?id=0B37scVeGwGFYMHJ3TUtoNXd5OWc&export=download)
+- [Mumeisen13](https://docs.google.com/uc?id=0B37scVeGwGFYbFU1YW50RjBNUnM&export=download)
+- [A-1 Climax 6th](https://docs.google.com/uc?id=0B37scVeGwGFYOG4xR0tXY1VFTU0&export=download)
+- [Mumeisen15](https://drive.google.com/file/d/1p8_4UpilwmoresANu747w07M48X2rTUY/view)
+- [A-1 ClimaX 8th](https://drive.google.com/file/d/1tEsAirQlIVQP-E7Rz2qqWVaVCtgR09WP/view)
+- [Mumeisen17](https://drive.google.com/file/d/1el0RKRa0mnowhZOTfLvqCiX7YLzo_Ohv/view)
+- [A-1 ClimaX 10th](https://drive.google.com/file/d/14jZbA5Jf-edP1F2so24YbDG6zAz2Sr9p/view)
+- [Mutual Faith 3 (Phase 1)](https://www.dropbox.com/s/lb02l0d34apxs2o/Mutual%20Faith%203.zip?dl=1)
+- [BMS Shuin II](https://drive.google.com/open?id=17CiBb24M65WoBd_sHXEI-8Izhpky4hHZ)
+
+## Tutorials and Tools
+
+-[BMS Creation Notes](https://docs.google.com/document/d/1ywUO5RxCP8jCM7MuFGFAS5TIRK2gsyM3-rMgvPuMEcw/edit)
+>Video version: https://www.youtube.com/watch?v=Guv1vRAKanY, https://www.youtube.com/watch?v=xYAeD4YPbAM, https://www.youtube.com/watch?v=33tkdoRkA_s
+
 
 
 
