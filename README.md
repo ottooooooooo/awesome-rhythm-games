@@ -39,27 +39,27 @@ You should be able to find it by pressing CTRL+F and searching for "ddr"
 
 ## Clients
 
-### Lunatic Rave 2
+## Lunatic Rave 2
 - [Lunatic Rave 2 Guide](https://news.keysounds.net/lr2guide)
 > VERY IMPORTANT READ IT!!!
 - [Lunatic Rave 2](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=download)
 - [Lunatic Rave 2 HD](https://drive.google.com/file/d/1GB1I6LSWnOeQbdpqj4doue7wLT15h-vX/view)
 - [Lunatic Rave 2 HD + Fast/Slow (fixed LNs ver.)](https://drive.google.com/file/d/1YcBQ_l6e306a4tn_VWXyzZnbfOfguHfb/view?usp=sharing)
 
-### Beatojara
+## Beatojara
 - [Beatojara Guide](https://github.com/wcko87/beatoraja-english-guide/wiki)
 > AGAIN, VERY IMPORTANT READ IT!!!
 - [Beatojara](https://mocha-repository.info/download.php)
 - [Latest Beatojara (0.8.5)](https://mocha-repository.info/download/beatoraja0.8.5.zip) No Java
 - [Beatojara (0.8.4)](http://cellar.queenspalace.dev/beatoraja0.8.4.zip)
 
-### Qwilight
+## Qwilight
 - [Steam](https://store.steampowered.com/app/1910130/Qwilight/)
 
-### QMS
+## QMS
 - [Download](https://misoshiru-cpp.jimdo.com/download/)
 
-## Starter Packs
+### Starter Packs
 - [GENOSIDE -BMS StarterPackage 2018-](http://nekokan.dyndns.info/~lobsak/genocide/grade.html)
 - [GENOSIDE -BMS StarterPackage-](http://nekokan.dyndns.info/~lobsak/genoside/)
 - [LUMINOUS](http://l-bms.space/1st/)
