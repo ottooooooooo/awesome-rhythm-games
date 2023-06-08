@@ -179,6 +179,27 @@
 - [BMS Terminology](http://news.keysounds.net/terminology)
 - [LR2 Skin Help (definition and usage of variables in .csv files)](http://right-stick.sub.jp/lr2skinhelp.html)
 - [BMX2WAV](http://childs.squares.net/program/bmx2wav/)
+- [Be-Music Surge (BMS Music Station)](http://be-music.surge.sh/)
+- [LR2 Timing Window](https://hitkey.nekokan.dyndns.info/diary1501.php#D150119)
+- [10K2S Difficulty Table Discussion Spreadsheet](https://docs.google.com/spreadsheets/d/1MrtyIe3F3U7qQl2w1TS-4REJQ2pAFVx-U3QV14MEBvg/edit#gid=0)
+- [Music select BGM collection by Lokovodo](http://www.mediafire.com/file/w9b416nb8vcn792/Bgm.rar/file)
+
+## Other Songs+Sabuns
+
+- [BMS uploader Mirror](http://www.ribbit.xyz/bms/mirror/)
+- [OverJoy Songs + Sabuns](https://onedrive.live.com/?id=40805CD20B6241C6%211913&cid=40805CD20B6241C6)
+- [Sara(Scratch) table sabuns](https://onedrive.live.com/?authkey=%21AGsLa3u5mkIaV6I&id=3F3FCF7E354956A6%21115&cid=3F3FCF7E354956A6)
+- [Sara(Scratch) table package](https://mega.nz/#!YNhFjAzL!yWgyKUVCC5KI_ksCUA2XfOAV-sFNPyf_h6QegJjjE1o)
+- [Pack for every single 24K BMS in the 24K table](https://drive.google.com/file/d/1HoLuCcZ6gzxjofM8Rw-INQxp0EhE1oFY/view)
+- [24K Pack](https://www.dropbox.com/s/3pf71eaxg4ald0p/24keys.7z?dl=0)
+- [BMS Sabun Uploader](http://gnqg.rosx.net/upload/)
+- [Stella Package (updated weekly)](https://pastebin.com/9GfkuLWM)
+- [Satellite Package (updated weekly)](https://pastebin.com/L2fcu8MR)
+- [24K "Sample Charts" list](https://docs.google.com/spreadsheets/d/1p4ksJmFty2l1zyJUmt24Ka2G89D7NdjFMA06QevTNv8/edit#gid=414122430)
+- [Collection by Mr. Bradley Mr. Martin](https://1drv.ms/f/s!Ame8S9jJ12Unduqwx13LNSfyr-E)
+- [PMS Package by Akash (fresh install)](https://drive.google.com/drive/folders/139uOXEGE6mE9KdM4FkQpy0gNFuqVoMhW?usp=sharing)
+> [2022-06-14 update](https://drive.google.com/file/d/1qLC7oI8qU3vn93_fyZzVRoTgeLBFuW7R/view?usp=sharing)
+- [Packages for all the "major" difficulty tables](https://bms.kyouko.moe/)
 
 
 
