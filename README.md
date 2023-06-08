@@ -15,18 +15,20 @@ If you have any suggestions tell me!
 
 # DDR / StepMania
 
-### STEPMANIA
-- [StepMania](https://www.stepmania.com/) DDR Simulator
-> [StepMania Tutorial](https://github.com/stepmania/stepmania/wiki)
+## STEPMANIA
+- [StepMania](https://www.stepmania.com/) DDR Simulator 
 - [Etterna](https://etternaonline.com/) Based on the StepMania Engine, focused on accomodating the four-key keyboard metagame
-> [Etterna Tutorial](https://youtu.be/WrUTderimUo)
 
-#### Packs 
+### Tutorials
+- [Etterna Tutorial](https://youtu.be/WrUTderimUo)
+- [StepMania Tutorial](https://github.com/stepmania/stepmania/wiki)
+
+### Packs 
 - [Etterna](https://etternaonline.com/packs), 
 - [StepMania](https://www.stepmania.com/forums/song-packs/)
 - [Arcade Simfiles](https://zenius-i-vanisher.com/v5.2/simfiles.php?category=simfiles)
 
-### DDR
+## DDR
 >AKA emulation with MAME
 - [MAME Roms, CHDs and BIOS](https://r-roms.github.io/megathread/retro/#arcade)
 > You should be able to find it by pressing CTRL+F and searching for "ddr"
