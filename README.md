@@ -10,6 +10,7 @@
 ### STEPMANIA
 - [Stepmania](https://www.stepmania.com/) Good ol' StepMania
 - [Etterna](https://etternaonline.com/) Based on the StepMania Engine, focused on accomodating the four-key keyboard metagame
+- [Arcade Simfiles](https://zenius-i-vanisher.com/v5.2/simfiles.php?category=simfiles)
 
 # Bemani / BMS
 > Copy and pasted from the discord server lmao
