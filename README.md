@@ -20,11 +20,11 @@ If you have any suggestions tell me!
 - [StepMania](https://www.stepmania.com/) DDR Simulator 
 - [Etterna](https://etternaonline.com/) Based on the StepMania Engine, focused on accomodating the four-key keyboard metagame
 
-### Tutorials
+#### Tutorials
 - [Etterna Tutorial](https://youtu.be/WrUTderimUo)
 - [StepMania Tutorial](https://github.com/stepmania/stepmania/wiki)
 
-### Packs 
+#### Packs 
 - [Etterna](https://etternaonline.com/packs), 
 - [StepMania](https://www.stepmania.com/forums/song-packs/)
 - [Arcade Simfiles](https://zenius-i-vanisher.com/v5.2/simfiles.php?category=simfiles)
