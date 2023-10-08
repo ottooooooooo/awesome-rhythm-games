@@ -1,65 +1,98 @@
-# Awesome Rhythm Games
-All of the Rhythm Game resources I can find, inspired by https://github.com/sindresorhus/awesome
+# Awesome Rhythm Games!
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-If you have any suggestions tell me!
-
-## Contents
-- [osu!](#osu)
-- [DDR / StepMania](#ddr--stepmania)
-- [Bemani / BMS](#bemani--bms)
-- [Guitar Hero](#guitar-hero)
-- [A Dance of Fire and Ice](#a-dance-of-fire-and-ice)
+My collection of the best rhythm game resources I can find, hopefully making discovery and play easier for everyone who reads. (Mainly focused on play and not for mapping/charting)
 
 # osu!
+> Some resources taken from an already great source, [Awesome osu!](https://github.com/cl8n/awesome-osu).
 - [Download](https://osu.ppy.sh/home/download)
-- https://github.com/cl8n/awesome-osu
+- [Old Website](https://old.ppy.sh/)
 
-# DDR / StepMania
+### Gameplay
+- [osu!search](https://osusearch.com/): Advanced search engine for beatmaps
+- [osu!collector](https://osucollector.com/): A place to view and download beatmap collections made by player FunOrange! Great for downloading several specific types of maps for practice
+> [A link to CLI downloader if you can't pay for the subscription](https://github.com/roogue/osu-collector-dl)
+- [Osekai Medals](https://osekai.net/medals/): Information about how to get every medal and how difficult they are
+- [OpenTabletDriver](https://github.com/InfinityGhost/OpenTabletDriver): Configurable Cross Platform tablet driver that I personally use
 
-## STEPMANIA
-- [StepMania](https://www.stepmania.com/) DDR Simulator 
-- [Etterna](https://etternaonline.com/) Based on the StepMania Engine, focused on accomodating the four-key keyboard metagame
+### Video and Streaming
+- [osr2mp4](https://github.com/uyitroa/osr2mp4-app): Converts osu replay files to video files using osu!danser
+- [StreamCompanion](https://github.com/Piotrekol/StreamCompanion): Live updates for the map you're playing, your current pp (performance points) and more for your stream!
+- [osukps](https://github.com/yugecin/osukps): A visual represensation of your inputs! Great for mania and standard
+- [bongocat-osu](https://github.com/kuroni/bongocat-osu): A cuter version of the previous, Bongo Cat taps your keys for you!
 
-#### Tutorials
-- [Etterna Tutorial](https://youtu.be/WrUTderimUo)
-- [StepMania Tutorial](https://github.com/stepmania/stepmania/wiki)
+### Alternative Clients
+- [McOsu](https://store.steampowered.com/app/607260/McOsu/): A practice client with configurable map settings and customizability
+- [danser-go](https://github.com/Wieku/danser-go): Visualizer client for fancy effects, very pretty
+- [osu!droid](https://osudroid.moe/): An android client I played on for a long time
 
-#### Packs 
-- [Etterna](https://etternaonline.com/packs), 
-- [StepMania](https://www.stepmania.com/forums/song-packs/)
-- [Arcade Simfiles](https://zenius-i-vanisher.com/v5.2/simfiles.php?category=simfiles)
+# Taiko no Tatsujin
+>Some resources taken from [The Taiko no Tatsujin Simulator Guide](https://guide.tjadataba.se/)
 
-## DDR
->AKA emulation with MAME
-- [MAME Roms, CHDs and BIOS](https://r-roms.github.io/megathread/retro/#arcade)
-You should be able to find it by pressing CTRL+F and searching for "ddr"
+### Official Ways To Play
+> You can buy the game on Nintendo Switch and PS4
+
+- [Taiko no Tatsujin: Rhythm Festival!](https://www.nintendo.com.au/games/nintendo-switch/taiko-no-tatsujin-rhythm-festival)
+- [Taiko no Tatsujin: Drum Session!](https://www.playstation.com/en-us/games/taiko-no-tatsujin-drum-session/)
+
+### Simulators
+>You may need to change you system locale to a japanese one for some of these simulators, you can do that with [Locale Emulator](https://xupefei.github.io/Locale-Emulator/)
+
+>You also might need to install the Taiko no Tatsujin Fonts here: [Font 1](https://drive.google.com/file/d/1Au8BzkPLCIunt-GypA4qvkUtpwGnKisp/view), [Font 2](https://drive.google.com/file/d/1OKbd2f4lGFwLkkp3wiENsybwc6VvLc6r/view), [Font 3](https://drive.google.com/file/d/1Au8BzkPLCIunt-GypA4qvkUtpwGnKisp/view).
+
+- [OpenTaiko](https://github.com/0auBSQ/OpenTaiko/releases/): OpenTaiko is probably the most accessible simulator, I started with this one before trying to find others closer to the official arcade version
+- [TJAPlayer3](https://drive.google.com/drive/folders/1qit5aYGK1TBh6qMOKBkKeqqXnO3Ckfig): The base of most modern simulators
+- [TJAPlayer3GL](https://discord.gg/t7dwc2Nm3a): TJAPlayer3 for those with weak graphics cards
+- [TJAPlayer3-f](https://github.com/Mr-Ojii/TJAPlayer3-f/releases): Some of the code of the original TJAPlayer3 is pretty bad, this aims to fix it
+
+### Official Songs/Custom Songs
+
+- [ESE (Every Song Ever)](https://ese.tjadataba.se/ESE/ESE): Every official Taiko song released in .tja format
+- [TJADB](https://tjadataba.se/): Custom songs by the community
+
+# DDR/Stepmania
+> One of my favourite rhythm games and probably one of my favourite *games* ever
+
+### Clients
+
+- [StepMania](https://www.stepmania.com/): The Primary Engine for Simfiles
+> [Tutorial](https://github.com/stepmania/stepmania/wiki)
+- [Etterna](https://etternaonline.com/): My main program for Simfiles, based on the StepMania Engine but more focused on accomodating more expert and leaderboard oriented play
+> [Tutorial](https://youtu.be/WrUTderimUo)
+- [Project Outfox](https://projectoutfox.com/): Technically more than 4k but still based on the StepMania engine, Features 18 different modes simulating different dance, instrument, and key-based rhythm games. (also includes .osz (osu mania map) support)
+> [Tutorial](https://outfox.wiki/)
+
+### Simfiles
+> Most Simfiles are in packs for ease of access, you might have to look elsewhere to get song files individually
+
+- [Etterna Packs](https://etternaonline.com/packs)
+- [StepMania Packs](https://www.stepmania.com/forums/song-packs/)
+- [Arcade Simfiles](https://zenius-i-vanisher.com/v5.2/simfiles.php?category=simfiles): These are files pretty much ripped directly from the arcade versions of DDR, you'll have to download them individually if you want them all though
+
+### Arcade Emulation
+> You can emulate Arcade hardware using MAME
+
+- [MAME](https://www.mamedev.org/release.html): The latest release of MAME
+- [MAME ROM's, CHD's and BIOS'](https://r-roms.github.io/megathread/retro/#arcade): You should be able to find most games by using CTRL+F and searching for "ddr", not all games work but the ones that do are great
 
 # Bemani / BMS
-> Copy and pasted from the discord server lmao
+> Most of this information is taken from the [BMS Community Discord Server](https://discord.gg/HMZ7h8UVC5)
 
-## Clients
+### Clients 
 
-### Lunatic Rave 2
-- [Lunatic Rave 2 Guide](https://news.keysounds.net/lr2guide)
-> VERY IMPORTANT READ IT!!!
-- [Lunatic Rave 2](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=download)
-- [Lunatic Rave 2 HD](https://drive.google.com/file/d/1GB1I6LSWnOeQbdpqj4doue7wLT15h-vX/view)
-- [Lunatic Rave 2 HD + Fast/Slow (fixed LNs ver.)](https://drive.google.com/file/d/1YcBQ_l6e306a4tn_VWXyzZnbfOfguHfb/view?usp=sharing)
+- [Lunatic Rave 2](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=download): I use this personally and it's great, Highly recommend
+- [Lunatic Rave 2 HD](https://drive.google.com/file/d/1GB1I6LSWnOeQbdpqj4doue7wLT15h-vX/view): The original is in a 4:3 aspect ratio so this aims to improve on it
+> [Guide](https://news.keysounds.net/lr2guide) (you should read it)
 
-### Beatojara
-- [Beatojara Guide](https://github.com/wcko87/beatoraja-english-guide/wiki)
-> AGAIN, VERY IMPORTANT READ IT!!!
-- [Beatojara](https://mocha-repository.info/download.php)
-- [Latest Beatojara (0.8.5)](https://mocha-repository.info/download/beatoraja0.8.5.zip) No Java
-- [Beatojara (0.8.4)](http://cellar.queenspalace.dev/beatoraja0.8.4.zip)
+- [Beatojara](https://mocha-repository.info/download.php): I don't remember much about this but I know it's also pretty servicable
+> [Guide](https://github.com/wcko87/beatoraja-english-guide/wiki)
 
-### Qwilight
-- [Steam](https://store.steampowered.com/app/1910130/Qwilight/)
+- [Qwilight](https://store.steampowered.com/app/1910130/Qwilight/): Another client I don't remember much but it's on Steam for easy access I guess
+- [QMS](https://misoshiru-cpp.jimdo.com/download/): Yeah I got no idea bout this one
 
-### QMS
-- [Download](https://misoshiru-cpp.jimdo.com/download/)
+### Song Packs
+> Similiar to DDR/Stepmania, Songs are downloaded in packs, These files can be pretty big so make sure you have some space on your hard drive
 
-### Starter Packs
 - [GENOSIDE -BMS StarterPackage 2018-](http://nekokan.dyndns.info/~lobsak/genocide/grade.html)
 - [GENOSIDE -BMS StarterPackage-](http://nekokan.dyndns.info/~lobsak/genoside/)
 - [LUMINOUS](http://l-bms.space/1st/)
@@ -71,67 +104,7 @@ You should be able to find it by pressing CTRL+F and searching for "ddr"
 - [Korea BMS Starter Pack -Primrose-](https://k-bms.com/primrose/)
 - [Lunatic Rave Endless Music](http://www.is-m.jp/lrem/download.html)
 
-### Player Utilities
-- [LR2 Internet Ranking](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi)
-- [MinIR Homepage](https://www.gaftalk.com/minir/)
-- [NotePara](http://www.notepara.com/)
-- [Walkure](http://walkure.net/hakkyou/)
-- [Stairway](http://stairway.sakura.ne.jp/bms/)
-- [BMSeeker Homepage](https://goo.gl/7RnKUL)
-- [BMSeeker English Download](https://www.dropbox.com/s/nh9e4z2fsxqozpi/BMSeeker-English-setup.exe?dl=0)
-- [Stella/Satellite Table](https://stellabms.xyz/)
-- [GLAssist Download (ver 2.3.2)](https://drive.google.com/file/d/0BxhgyhaSFcpBRE96NmxJTnFxcWs/view)
-- [LR2SkinConverter](https://www.dropbox.com/s/mszupq5ri7wivjr/LR2SkinConverter_0.2.0.zip?dl=1)
-- [BMS Search](https://bmssearch.net/)
-- [A tool for "simulating" hand positions on controllers](http://blog-imgs-50.fc2.com/p/o/t/potofu412/unsi_gene_html5.html)
-
-### Communities
-- [r/lunaticrave2](https://www.reddit.com/r/lunaticrave2/)
-- [k-bms](https://k-bms.com/)
-- [BMS Community "official" Link](https://discord.com/invite/0lUN07Rj1O8Sdctv)
-
-### Dans
-- [Official Dan Courses](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=gradelist)
-- [Old Official Dan Courses (~2012)](https://1drv.ms/f/s!AnUmuDDopb3tpFG38VunDMuAuj3J)
-- [Satellite Skill Analyzer](https://www.dropbox.com/s/vb50k0gt72ir4x7/Satellite%20Skill%20Analyzer.zip?dl=1)
-
-### Skins
->  I don't know if some of these work or not, some might need Lunatic Rave 2 HD
-- [Brook](https://drive.google.com/file/d/1ei0w7_gMkZ7TU9q79WkQ5RPnTIbhWbOk/view)
-- [Remi-S (various editions)](https://drive.google.com/open?id=10glT96Fy5pA6DmDC-uPJJD-xF23uGTXR)
-- [KCOOL 1.7x SD (LR2)](https://onedrive.live.com/?id=5D13E668918E4CF1%21131&cid=5D13E668918E4CF1)
-- [LITONE Homepage](https://desout2.tk/)
-- [WMix (LR2)](http://1drv.ms/24mbfnE)
-- [ht51-DeepForest-v2 20110917](http://bit.ly/wIGhCY)
-- [24K/48K keyboard-like skin for beatoraja](https://www.pixiv.net/fanbox/creator/19364814/post/299474?utm_campaign=manage_post_page)
-- [RED BELT/OVERACTiVE](http://right-stick.sub.jp/rb.html)
-
-### Tables
-
-#### LR2 Tables
-- [Normal 1](http://www.ribbit.xyz/bms/tables/normal.html)
-- [Insane 1](http://nekokan.dyndns.info/~lobsak/genocide/insane.html)
-- [Overjoy](http://lr2.sakura.ne.jp/overjoy.php)
-- [(Twitter) @Fez_ike's Beginner table](http://fezikedifficulty.futene.net/list.html)
-- [Stella](https://stellabms.xyz/st/table.html)
-- [Satellite](https://stellabms.xyz/sl/table.html)
-- [Normal 2](http://rattoto10.jounin.jp/table.html)
-- [Insane 2](http://rattoto10.jounin.jp/table_insane.html)
-- [DP Normal (Delta)](http://dpbmsdelta.web.fc2.com/table/dpdelta.html)
-- [DP Insane](http://dpbmsdelta.web.fc2.com/table/insane.html)
-- [DP Satellite](https://stellabms.xyz/dp/table.html)
-- [LN Table](http://flowermaster.web.fc2.com/lrnanido/gla/LN.html)
-- [PMS Normal](http://pmsdifficulty.xxxxxxxx.jp/PMSdifficulty.html)
-- [PMS Insane](http://stellawingroad.web.fc2.com/new/pms.html)
-- [Miscellaneous tables (used by BMSeeker)](http://www.ribbit.xyz/bms/tables/table_list.html)
-
-#### Beatoraja Tables
-- [DP Delta](https://tear.moe/table/dpdelta-normal-dans.html)
-- [GENOSIDE 2018 SP Dans (WARNING: these courses do not use the LR2 dan gauge)](https://tear.moe/table/genoside-2018-sp.html)
-- [Satellite Skill Analyzer](http://mirai-yokohama.sakura.ne.jp/bms/satellite_skill.html)
-- [Stella Skill Simulator v2](http://mirai-yokohama.sakura.ne.jp/bms/stella_skill.html)
-
-### Event Packs
+> Event packs are some of the easiest ways to get great songs in batches
 - [100+ packs here](https://package.bms.ms/)
 - [BMS of Fighters 2004](https://archive.org/details/bmsoffighters2004)
 - [BMS of Fighters 2005](https://archive.org/details/thebmsoffighters2005)
@@ -164,64 +137,123 @@ You should be able to find it by pressing CTRL+F and searching for "ddr"
 - [Mutual Faith 3 (Phase 1)](https://www.dropbox.com/s/lb02l0d34apxs2o/Mutual%20Faith%203.zip?dl=1)
 - [BMS Shuin II](https://drive.google.com/open?id=17CiBb24M65WoBd_sHXEI-8Izhpky4hHZ)
 
-### Tutorials and Tools
-- [BMS Creation Notes](https://docs.google.com/document/d/1ywUO5RxCP8jCM7MuFGFAS5TIRK2gsyM3-rMgvPuMEcw/edit)
->Video version: https://www.youtube.com/watch?v=Guv1vRAKanY, https://www.youtube.com/watch?v=xYAeD4YPbAM, https://www.youtube.com/watch?v=33tkdoRkA_s
-- [Legacy BGA How-To](https://docs.google.com/document/d/1jL9f5CaH3Rm6bNa9ijUIDBqfpyDYvq4mIK_AeyUJ3mI)
-- [BMS Charting 101](https://docs.google.com/document/d/1uWpmPIpV7q2JIvObaJJ0Q6kUOA4oBav7PvWlEd_uBzQ)
-- [BMS #TOTAL Calculator](https://hitkey.nekokan.dyndns.info/total.htm)
-- [woslicerII](http://cerebralmuddystream.nekokan.dyndns.info/soft/woslicerII.zip)
-- [BMHelper](http://sky.geocities.jp/exclusion_bms/bmhelper/bmhelper_b4p.zip)
-- [BMHelper (English)](https://www.dropbox.com/s/e7196jx73g4huok/bmh_english.zip?dl=0)
-- [uBMplay 1.5.2](http://ucn.tokonats.net/archives/ubmplay/ubmplay_152.zip)
-- [BMSE](http://ucn.tokonats.net/software/bmse/)
-- [BMSE - LN modification](https://github.com/dtinth/UCN-BMSE)
-- [iBMSC](https://www.cs.mcgill.ca/~ryang6/iBMSC/)
-- [µBMSC - modified version of iBMSC (bms editor) ](https://github.com/zardoru/iBMSC)
-- [BMSONE (bmson editor)](http://sky.geocities.jp/exclusion_bms/bmsone_en.html)
-- [BGAEncAdv](https://yaruki0.net/program/BGAEncAdv.zip)
-- [beatoraja Guide by LNTakeshi (Japanese)](https://lntakeshi.hateblo.jp/entry/2017/05/19/002127)
-- [beatoraja Guide by w (English)](https://github.com/wcko87/beatoraja-english-guide/wiki)
-- [CanMusic Setup Guide](http://vsrg.pbworks.com/w/page/123390204/CanMusic)
-- [10K2S Setup Guide](http://vsrg.pbworks.com/w/page/121853208/10K2S%20Guide)
-- [PMS Guide](http://vsrg.pbworks.com/w/page/121957257/PMS%20(9k)%20Guide)
+### Utilities
 
-### Others
+- [LR2 Internet Ranking](http://www.dream-pro.info/~lavalse/LR2IR/search.cgi)
+- [LR2SkinConverter](https://www.dropbox.com/s/mszupq5ri7wivjr/LR2SkinConverter_0.2.0.zip?dl=1)
+- [BMS Search](https://bmssearch.net/)
+> This is for downloading single songs, some links to songs are dead but overall very useful
+
+### Communties
+> The only one i'm involved in is the BMS Community
+
+- [r/lunaticrave2](https://www.reddit.com/r/lunaticrave2/)
+- [k-bms](https://k-bms.com/)
+- [BMS Community "official" Link](https://discord.com/invite/0lUN07Rj1O8Sdctv)
+
+### Skins
+>  I don't know if some of these work or not, some might need Lunatic Rave 2 HD but you can convert them back with LR2SkinConverter
+- [Brook](https://drive.google.com/file/d/1ei0w7_gMkZ7TU9q79WkQ5RPnTIbhWbOk/view)
+- [Remi-S (various editions)](https://drive.google.com/open?id=10glT96Fy5pA6DmDC-uPJJD-xF23uGTXR)
+- [KCOOL 1.7x SD (LR2)](https://onedrive.live.com/?id=5D13E668918E4CF1%21131&cid=5D13E668918E4CF1)
+- [LITONE Homepage](https://desout2.tk/)
+- [WMix (LR2)](http://1drv.ms/24mbfnE)
+- [ht51-DeepForest-v2 20110917](http://bit.ly/wIGhCY)
+- [24K/48K keyboard-like skin for beatoraja](https://www.pixiv.net/fanbox/creator/19364814/post/299474?utm_campaign=manage_post_page)
+- [RED BELT/OVERACTiVE](http://right-stick.sub.jp/rb.html)
+
+### Miscellaneous
+
 - [BMS Chart Viewer](http://www.ribbit.xyz/bms/score/)
-- [BMS EVENT LITE (Hitkey Event List)](https://hitkey.nekokan.dyndns.info/bmsevt.htm#ALL)
 - [BMS Terminology](http://news.keysounds.net/terminology)
-- [LR2 Skin Help (definition and usage of variables in .csv files)](http://right-stick.sub.jp/lr2skinhelp.html)
-- [BMX2WAV](http://childs.squares.net/program/bmx2wav/)
-- [Be-Music Surge (BMS Music Station)](http://be-music.surge.sh/)
-- [LR2 Timing Window](https://hitkey.nekokan.dyndns.info/diary1501.php#D150119)
-- [10K2S Difficulty Table Discussion Spreadsheet](https://docs.google.com/spreadsheets/d/1MrtyIe3F3U7qQl2w1TS-4REJQ2pAFVx-U3QV14MEBvg/edit#gid=0)
-- [Music select BGM collection by Lokovodo](http://www.mediafire.com/file/w9b416nb8vcn792/Bgm.rar/file)
 
-### Other Songs+Sabuns
-- [BMS uploader Mirror](http://www.ribbit.xyz/bms/mirror/)
-- [OverJoy Songs + Sabuns](https://onedrive.live.com/?id=40805CD20B6241C6%211913&cid=40805CD20B6241C6)
-- [Sara(Scratch) table sabuns](https://onedrive.live.com/?authkey=%21AGsLa3u5mkIaV6I&id=3F3FCF7E354956A6%21115&cid=3F3FCF7E354956A6)
-- [Sara(Scratch) table package](https://mega.nz/#!YNhFjAzL!yWgyKUVCC5KI_ksCUA2XfOAV-sFNPyf_h6QegJjjE1o)
-- [Pack for every single 24K BMS in the 24K table](https://drive.google.com/file/d/1HoLuCcZ6gzxjofM8Rw-INQxp0EhE1oFY/view)
-- [24K Pack](https://www.dropbox.com/s/3pf71eaxg4ald0p/24keys.7z?dl=0)
-- [BMS Sabun Uploader](http://gnqg.rosx.net/upload/)
-- [Stella Package (updated weekly)](https://pastebin.com/9GfkuLWM)
-- [Satellite Package (updated weekly)](https://pastebin.com/L2fcu8MR)
-- [24K "Sample Charts" list](https://docs.google.com/spreadsheets/d/1p4ksJmFty2l1zyJUmt24Ka2G89D7NdjFMA06QevTNv8/edit#gid=414122430)
-- [Collection by Mr. Bradley Mr. Martin](https://1drv.ms/f/s!Ame8S9jJ12Unduqwx13LNSfyr-E)
-- [PMS Package by Akash (fresh install)](https://drive.google.com/drive/folders/139uOXEGE6mE9KdM4FkQpy0gNFuqVoMhW?usp=sharing)
-> [2022-06-14 update](https://drive.google.com/file/d/1qLC7oI8qU3vn93_fyZzVRoTgeLBFuW7R/view?usp=sharing)
-- [Packages for all the "major" difficulty tables](https://bms.kyouko.moe/)
+# Guitar Hero
+> A classic and thriving community even after all these years!
 
-## Guitar Hero
-- [Clone Hero](https://clonehero.net/) Main way to play
-- [Chart Spreadsheet](https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/edit#gid=0) All the chart's you'd need
-- [Chorus](https://chorus.fightthe.pw/) Alternative
+### Clients
+- [Clone Hero](https://clonehero.net/): Most have been playing on this until the release of YARG
+- [YARG](https://yarg.in/): Some players have been switching to this since it has more options available for customization and instruments (Guitar (five fret), Drums (plastic or e-kit), Vocals, Pro Guitar and more!)
 
-## A Dance of Fire and Ice
+### Song Packs
+> There are a ton, but i'll specifically give the links to the Official Charts since the list can get pretty cluttered
+
+- [Chart Spreadsheet](https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/edit#gid=0): Every chart you'd need is probably here
+- [Chorus](https://chorus.fightthe.pw/): Search engine for single charts
+
+- [Guitar Hero I](https://drive.google.com/file/d/1Z6tPssOVX81VVi_1XqQO9GpsNUtIhabH/view)
+- [Guitar Hero II](https://drive.google.com/file/d/1flR2SdIvdLBuLuN4JgQzxLHXwXJJzop6/view)
+- [Guitar Hero II DLC](https://drive.google.com/file/d/1XY7yiDQexzMSTqYYgfkIB7hKHd0ZeQFE)
+- [Guitar Hero Encore: Rocks the 80's](https://drive.google.com/file/d/1zLHtqxadChMmuG1UEBcYxeKR36LiVJKO/view)
+- [Guitar Hero III: Legends of Rock](https://drive.google.com/open?id=17Jbl3mBg116GnRYbvVGbHt_P57rN3ZnT)
+- [Guitar Hero III Uncensored Audio Patch](https://drive.google.com/file/d/1z_nPon_4FU1ZbYiZjatFdgByfLl7-xkE/view?usp=sharing)
+- [Guitar Hero III DLC](https://drive.google.com/drive/folders/1phqay8Tpj4-3IgcW5Xe5pLLhtQ5DKZ6m)
+- [Guitar Hero On Tour](https://drive.google.com/file/d/1SQbyclFNQOFCAAqzjnyNRqt306lznW2W/view?usp=sharing)
+- [Guitar Hero: Aerosmith](https://drive.google.com/open?id=1DP1oi9EDm3FGgR_7Ew2r9X5c9ahnq3NH)
+- [Guitar Hero World Tour](https://drive.google.com/file/d/1DsRIpbvicrGhAkLQ5qxASybNGuEJ_dB6/view?usp=sharing)
+- [Guitar Hero World Tour DLC](https://drive.google.com/file/d/15Ztd7Zlj3mgYPVyeRzAVxaNw0W3rq9C9/view?usp=sharing)
+- [Guitar Hero On Tour: Decades](https://drive.google.com/file/d/1ooe0A0nNnFg92qQOpZRF2SRel5SlVE_8/view?usp=sharing)
+- [Guitar Hero: Metallica](https://drive.google.com/file/d/1tmQYWZnn70HdN_dYAQzUo7EyPdFHmswp/view?usp=sharing)
+- [Guitar Hero: Metallica DLC](https://drive.google.com/file/d/11GiKVAOBg8y_pp9T-fzNIl39W-xyF3AI/view?usp=sharing)
+- [Guitar Hero On Tour: Modern Hits](https://drive.google.com/file/d/1agEboWOACQi9sZVVOPuScExqp_j8pTbQ/view?usp=sharing)
+- [Guitar Hero: Smash Hits](https://drive.google.com/file/d/1eB6p6ovL7zpYNLYlSjtf8t0MWIMAMLsx/view?usp=sharing)
+- [Guitar Hero 5](https://drive.google.com/file/d/1zYYtwtj-wYdgkYbVSRlGtx-StHxowIU8/view?usp=sharing)
+- [Guitar Hero 5 DLC](https://drive.google.com/file/d/1g8e_kPQtgNFrxvAlWAbzV7ylDktZUTBy/view?usp=sharing)
+- [Guitar Hero: Van Halen](https://drive.google.com/file/d/1QhFixrIttVLd6WnuY5sw5LG4L19tmiQO/view?usp=sharing)
+- [Guitar Hero: Warriors of Rock](https://drive.google.com/file/d/1ekGknfrdAS0MGP-7X0wdGJQGYUNk_5W1/view?usp=sharing)
+- [Guitar Hero: Warriors of Rock DLC](https://drive.google.com/file/d/11CfGSOwzMIBzUGi_HHZ0aFtviyn7wbbE/view?usp=sharing)
+
+# A Dance of Fire and Ice
+
+### Download
+> You can buy it on either of these, the base game is great
+
 - [Steam](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/)
 - [itch.io](https://fizzd.itch.io/a-dance-of-fire-and-ice)
 
-### Mods
-- [Tutorial](https://www.youtube.com/watch?v=tdUTmQ5sIdk)
-- [ADOFAI Modding Discord (Archived)](https://discord.com/invite/xrBx7uRQKC)
+### Mods and Community
+> This is for those wanting more out of ADoFaI
+
+- [Modding Tutorial](https://www.youtube.com/watch?v=tdUTmQ5sIdk)
+- [Main Discord Server](https://discord.gg/adofaigg)
+- [Archived Modding Server](https://discord.gg/VS6e62xZFv)
+
+# Hatsune Miku: Project Diva
+> This will technically be split up into two parts, Official and Emulation
+
+### Official Ways To Play
+> You can buy the game on Nintendo Switch and PC via Steam
+
+- [Hatsune Miku: Project Diva Mega Mix](https://www.nintendo.com/store/products/hatsune-miku-project-diva-mega-mix-switch/)
+- [Hatsune Miku: Project Diva Mega Mix+](https://store.steampowered.com/app/1761390/Hatsune_Miku_Project_DIVA_Mega_Mix/)
+
+### Mods (for PC only)
+
+- [Diva Mod Manager](https://gamebanana.com/tools/9712): Essential 
+- [GameBanana](https://gamebanana.com/mods/games/16522)
+- [Nexus](https://www.nexusmods.com/hatsunemikuprojectdivamegamixplus): (Pretty much a wasteland lmao)
+- [Eden Project](https://gamebanana.com/mods/405848): A great first mod! Pretty big so have space on your hard drive
+
+### Emulation Software
+> The only way you can use these ROM files on modern hardware is through these, Be warned that for some you might need a pretty good computer to run it
+
+- [PPSSPP](https://www.ppsspp.org/)
+- [RPCS3](https://rpcs3.net/)
+- [Citra](https://citra-emu.org/)
+- [yuzu](https://yuzu-emu.org/)
+
+### Emulation Files
+> Normally you would need to dump the ROM's off the official hardware using softmods but it can be tedious, heres some links to the ROM's
+
+[Hatsune Miku - Project Diva (PPSSPP)](https://dl9a.cdromance.com/download.php?file=Hatsune%20Miku%20-%20Project%20Diva%20%28English%20v1.0%29.7z&id=90&platform=psp&key=7555587709)
+[Hatsune Miku - Project Diva F (PS3)](https://myrient.erista.me/files/No-Intro/Sony%20-%20PlayStation%203%20(PSN)%20(Content)/Hatsune%20Miku%20-%20Project%20Diva%20F%20(USA).zip)
+[Hatsune Miku - Project Mirai DX (3DS)](https://hshop.erista.me/t/1983)
+[Hatsune Miku - Project Diva Megamix (NS) (Risky)](https://www.ziperto.com/hatsune-miku-project-diva-mega-mix-switch/)
+
+
+
+
+
+
+
+
+
