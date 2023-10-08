@@ -244,10 +244,10 @@ My collection of the best rhythm game resources I can find, hopefully making dis
 ### Emulation Files
 > Normally you would need to dump the ROM's off the official hardware using softmods but it can be tedious, heres some links to the ROM's
 
-[Hatsune Miku - Project Diva (PPSSPP)](https://dl9a.cdromance.com/download.php?file=Hatsune%20Miku%20-%20Project%20Diva%20%28English%20v1.0%29.7z&id=90&platform=psp&key=7555587709)
-[Hatsune Miku - Project Diva F (PS3)](https://myrient.erista.me/files/No-Intro/Sony%20-%20PlayStation%203%20(PSN)%20(Content)/Hatsune%20Miku%20-%20Project%20Diva%20F%20(USA).zip)
-[Hatsune Miku - Project Mirai DX (3DS)](https://hshop.erista.me/t/1983)
-[Hatsune Miku - Project Diva Megamix (NS) (Risky)](https://www.ziperto.com/hatsune-miku-project-diva-mega-mix-switch/)
+- [Hatsune Miku - Project Diva (PPSSPP)](https://dl9a.cdromance.com/download.php?file=Hatsune%20Miku%20-%20Project%20Diva%20%28English%20v1.0%29.7z&id=90&platform=psp&key=7555587709)
+- [Hatsune Miku - Project Diva F (PS3)](https://myrient.erista.me/files/No-Intro/Sony%20-%20PlayStation%203%20(PSN)%20(Content)/Hatsune%20Miku%20-%20Project%20Diva%20F%20(USA).zip)
+- [Hatsune Miku - Project Mirai DX (3DS)](https://hshop.erista.me/t/1983)
+- [Hatsune Miku - Project Diva Megamix (NS) (Risky)](https://www.ziperto.com/hatsune-miku-project-diva-mega-mix-switch/)
 
 
 
